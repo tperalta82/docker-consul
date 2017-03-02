@@ -1,3 +1,3 @@
 
 build:
-	docker build -t gliderlabs/consul-server:$(VERSION) .
+	docker build -t tperalta82/consul-server:$(VERSION) .
